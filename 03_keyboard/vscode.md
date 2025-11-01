@@ -6,6 +6,7 @@
 | Ctrl + B | Toggle Sidebar |
 | Ctrl + W | Close Tab |
 | Ctrl + . | Quick Fix |
+| Ctrl + K then V` | Open Markdown Preview |
 
 # Extensions
 
@@ -17,10 +18,6 @@
 | Shortcut | Description |
 |----------|-------------|
 | Ctrl + R | Open Recent Workspaces/Folders |
-
-| Ctrl + K then V` | Open Markdown Preview |
-| Ctrl + P | Quick file search |
-
 
 # AI Generated
 
