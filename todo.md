@@ -1,3 +1,14 @@
+
+
+test loadbalencing
+
+kill service to test fault tolerance of system.
+
+database optimizations.
+
+
+
+
 how does one get cracked?
 what should I learn? 
 what backend developer job do I want to have. what do I want to specualize in.
