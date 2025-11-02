@@ -8,10 +8,11 @@
 | Ctrl + . | Quick Fix |
 | Ctrl + K then V` | Open Markdown Preview |
 | Ctrl + Alt + R | Open Folder |
+| Ctrl + ,| Settings |
+| Ctrl + K then  Ctrl + S | Keyboard Shortcuts |
+| Ctrl + Space | Intellisense  |
 | Ctrl + ||
-| Ctrl + ||
-| Ctrl + ||
-| Ctrl + ||
+
 |||
 |||
 |||
@@ -40,4 +41,7 @@
 | Ctrl + K then Ctrl + ←/→ | Switch Between Editor Groups|
 
 
+
+# Removed but useful
+| Ctrl + Q | Close app|
 
