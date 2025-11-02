@@ -1,5 +1,6 @@
 # check if port is availabe or already in use
 sudo ss -tuln | grep :80
+sudo ss -tulnp4 | awk '!seen[$5]++'
 
 
 # Stop Process
@@ -8,6 +9,10 @@ pgrep dmenu
 
 
 # Find
+
+
+find ~ -type f -name ".env"
+
 
 find . -type d -name "__pycache__" -print
 find . -type d -name "__pycache__" -exec rm -r {} +

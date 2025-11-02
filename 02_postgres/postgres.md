@@ -1,7 +1,24 @@
 sudo -i -u postgres
 psql
 
-Alright, since you want to allow connections from **any IP**, here’s exactly what to do with `vim`. I’ll assume Ubuntu + Postgres 14 default paths.
+
+
+psql -U postgres -h your_host -p 5432 > full_cluster_backup.sql
+psql -h 127.0.0.1 -p 5432 -U postgres -d postgres
+
+pg_dumpall -U postgres -h your_host -p 5432 > full_cluster_backup.sql
+
+
+pg_dump -U your_db_user -h your_db_host -p 5432 -F c -b -v -f backup_file.dump your_database_name
+
+
+# Change Password
+sudo -u postgres psql
+ALTER ROLE your_db_user WITH PASSWORD 'new_secure_password';
+\q
+
+
+
 
 ---
 
