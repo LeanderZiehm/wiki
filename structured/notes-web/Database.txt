@@ -1,0 +1,12 @@
+Connection pool
+
+
+
+
+
+should I close the connection directly?
+
+
+Errors:
+to many client error
+Timeout 

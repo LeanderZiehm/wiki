@@ -1,0 +1,4 @@
+SQLAlchemy 2 In Practice: Learn to program relational databases in Python step by step (English Edition)
+Learn Lisp
+
+parameterized queries

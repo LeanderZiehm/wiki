@@ -1,0 +1,5 @@
+separate
+control
+Singleton
+multiple
+caching, caching

@@ -1,0 +1,11 @@
+override ctrl w for closing tabs.
+override shortcut ctrl n and create new tab. have it namable write name.
+vim commands for moving.
+faster auto save
+
+icon
+
+close tabs by defaul when creating a new file and just have fast search under Ctrl + P.
+Store timestamps when a note was accessed, edited, 
+
+fix line numbers live update

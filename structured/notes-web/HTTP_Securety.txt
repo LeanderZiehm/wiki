@@ -1,0 +1,16 @@
+Encryption at Rest
+
+Unsecured APIs and Services
+Poorly secured APIs can be exploited to leak data or gain unauthorized access.
+Missing authentication, excessive permissions, or lack of rate limiting are common issues.
+
+compromized Email or website: pdf, image, turning into running:  C / C++ bash/python code on the host system
+
+
+Malware and Ransomware
+Malicious software installed via email attachments, compromised websites, or infected devices.
+Can steal data, log keystrokes, or encrypt files demanding ransom.
+
+Man-in-the-Middle (MITM) Attacks
+Intercepting communication between two parties to eavesdrop or alter data.
+Often occurs on unsecured Wi-Fi networks or via DNS spoofing.

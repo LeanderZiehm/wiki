@@ -1,0 +1,16 @@
+# Automatically Backup .env files by just visiting a webpage or opening pdf/image and save to postgres database.
+
+# TextTrack
+A tool that lets me quickly paste in a word/short text and saves the timestamp of when it was created in a list like whatsapp. then can do data analytics.
+
+
+https://www.figma.com/de-de/community/file/1426189170256184933/favicons-library
+
+
+Notes app: Sublime text S as N for notes and Vscode color.
+
+https://simpleicons.org/
+https://github.com/simple-icons/simple-icons/tree/develop/icons
+https://github.com/SublimeText/AFileIcon/blob/master/icons/svg/file_type_sublime.svg
+
+
