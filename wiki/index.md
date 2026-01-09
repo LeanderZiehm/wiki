@@ -1,4 +1,78 @@
-hello this is my wiki
+
+
+# Programming Languages
+- [react](./programming_languages/react.md)
+- [javascript](./programming_languages/javascript.md)
+- [typescript](./programming_languages/typescript.md)
+
+
+
+- [java](./programming_languages/java.md)
+- [python](./programming_languages/python.md)
+
+
+
+
+
+
+
+
+
+# cli 
+
+- [git](./cli_/git.md)
+- [docker](./cli_/docker.md)
+
+
+- (cd, mkdir, rm, rmdir)
+- (ssh, scp)/(rsync)
+
+
+
+
+# Editors
+
+[keyboardshortcuts](./editors/keyboardshortcuts.md)
+
+- [intelij](./editors/intelij.md)
+- [vscode](./editors/vscode.md)
+- [vim](./linux/terminal/cli_tools/vim.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Presentations
@@ -48,19 +122,14 @@ hello this is my wiki
 
 #### File size
 
-du
 
 
-
-
+#### modern clis
+- zoxide
+- fd
+- ripgrep
 2. [fzf](./linux/terminal/cli_tools/fzf.md)
 3. [yazi](./linux/terminal/cli_tools/yazi.md)
 
 
-
-
-# Editors
-
-1. [vscode](./editors/vscode.md)
-2. [vim](./linux/terminal/cli_tools/vim.md)
 
