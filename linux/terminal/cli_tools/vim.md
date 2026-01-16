@@ -14,8 +14,11 @@ A           instert at end of line. like $
 a           instert after cursor 
 /           search forward
 ?           serch backward
-
 gh          ? select mode
+Ctrl o      go backwards (best after gf)
+Ctrl i      go forwards
+
+
 
 - ## Visaul Mode
 u           lowercase selection

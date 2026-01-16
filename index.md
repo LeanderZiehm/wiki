@@ -1,28 +1,20 @@
 # Editors
 [keyboardshortcuts](./editors/keyboardshortcuts.md)
 - [vim](./linux/terminal/cli_tools/vim.md)
-- [intelij](./editors/intelij.md)
 - [vscode](./editors/vscode.md)
+<!-- - [intelij](./editors/intelij.md) -->
 
 # Programming Languages
 - [python](./programming_languages/python.md)
 - [javascript](./programming_languages/javascript.md)
-- [java](./programming_languages/java.md)
-
-- [react](./programming_languages/react.md)
-- [typescript](./programming_languages/typescript.md)
+<!-- - [java](./programming_languages/java.md) -->
 
 
+# cli
 
-
-
-
-
-
-# cli 
-
-- [git](./cli_/git.md)
-- [docker](./cli_/docker.md)
+- [git](./cli/git.md)
+- [docker](./cli/docker.md)
+- [podman](./cli/podman.md)
 
 
 - (cd, mkdir, rm, rmdir)
