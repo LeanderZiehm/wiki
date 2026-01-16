@@ -1,15 +1,16 @@
-
+# Editors
+[keyboardshortcuts](./editors/keyboardshortcuts.md)
+- [vim](./linux/terminal/cli_tools/vim.md)
+- [intelij](./editors/intelij.md)
+- [vscode](./editors/vscode.md)
 
 # Programming Languages
-- [react](./programming_languages/react.md)
-- [javascript](./programming_languages/javascript.md)
-- [typescript](./programming_languages/typescript.md)
-
-
-
-- [java](./programming_languages/java.md)
 - [python](./programming_languages/python.md)
+- [javascript](./programming_languages/javascript.md)
+- [java](./programming_languages/java.md)
 
+- [react](./programming_languages/react.md)
+- [typescript](./programming_languages/typescript.md)
 
 
 
@@ -29,14 +30,6 @@
 
 
 
-
-# Editors
-
-[keyboardshortcuts](./editors/keyboardshortcuts.md)
-
-- [intelij](./editors/intelij.md)
-- [vscode](./editors/vscode.md)
-- [vim](./linux/terminal/cli_tools/vim.md)
 
 
 
