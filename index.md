@@ -1,31 +1,34 @@
-# Editors
+[frontend](./frontend.md)
+
+
+
+
+
+# editors
 [keyboardshortcuts](./editors/keyboardshortcuts.md)
 - [vim](./linux/terminal/cli_tools/vim.md)
 - [vscode](./editors/vscode.md)
 <!-- - [intelij](./editors/intelij.md) -->
 
-# Programming Languages
+# programming languages
 - [python](./programming_languages/python.md)
 - [javascript](./programming_languages/javascript.md)
 <!-- - [java](./programming_languages/java.md) -->
-
-
+- [java](./programming_languages/java.md)
 # cli
-
+- [clis](./cli/clis.md)
 - [git](./cli/git.md)
 - [docker](./cli/docker.md)
-- [podman](./cli/podman.md)
 
 
-- (cd, mkdir, rm, rmdir)
-- (ssh, scp)/(rsync)
+# databases
 
+- [postgres](./databases/postgres.md)
+- [mysql](./databases/mysql.md)
 
+## tools
 
-
-
-
-
+- [dbeaver](./databases/dbeaver.md) 
 
 
 

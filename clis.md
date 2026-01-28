@@ -1,0 +1,2 @@
+- (cd, mkdir, rm, rmdir)
+- (ssh, scp)/(rsync)
