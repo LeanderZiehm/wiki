@@ -1,6 +1,10 @@
 [frontend](./frontend.md)
 
+[terraform](./terraform.md)
 
+[cloud](./cloud.md)
+
+[kubernetes](./kubernetes.md)
 
 
 

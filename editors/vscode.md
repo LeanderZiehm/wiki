@@ -9,6 +9,10 @@ Alt Z               Word wrap
 ctrl-shift-I        autoformat/indent file
 Cmd + Shift + F     format the file.
 Alt+Up/Down         to slide lines up/down.
+Ctrl alt B          Hide right panel AI Chat
+Ctrl B              Hide left panel
+Ctrl Shift V        Preview Markdown
+
 
 ### Saw on internet but did't use yet
 Ctrl [ or Ctrl ] Go Back / Go Forward  
