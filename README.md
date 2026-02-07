@@ -2,8 +2,51 @@
 
 This repository contains my notes and documentation on various tools, programming languages, Linux configurations, and presentations.
 
-## Table of Contents
+[devops](./devops.md)
 
+[termux](./termux.md)
+
+
+# Table of Contents
+
+## editors
+[keyboardshortcuts](./editors/keyboardshortcuts.md)
+- [vim](./linux/terminal/cli_tools/vim.md)
+- [vscode](./editors/vscode.md)
+<!-- - [intelij](./editors/intelij.md) -->
+
+
+
+## programming languages
+- [python](./programming_languages/python.md)
+- [javascript](./programming_languages/javascript.md)
+<!-- - [java](./programming_languages/java.md) -->
+- [java](./programming_languages/java.md)
+## cli
+- [clis](./cli/clis.md)
+- [git](./cli/git.md)
+- [docker](./cli/docker.md)
+
+## databases
+
+- [postgres](./databases/postgres.md)
+- [mysql](./databases/mysql.md)
+
+## tools
+
+- [dbeaver](./databases/dbeaver.md) 
+
+## notes
+
+[frontend](./frontend.md)
+
+[terraform](./terraform.md)
+
+[cloud](./cloud.md)
+
+[kubernetes](./kubernetes.md)
+
+# android programming
 ### CLI
 - [Docker](cli/docker.md) - Notes on using Docker for container management.
 - [Git](cli/git.md) - Git commands, tips, and workflows.
@@ -47,3 +90,57 @@ This repository contains my notes and documentation on various tools, programmin
 - [React](programming_languages/programming_languages/react.md)
 - [TypeScript](programming_languages/programming_languages/typescript.md)
 - [Python](programming_languages/python.md)
+
+
+
+# Presentations
+
+[powerpoint](./presentations/powerpoint.md)
+
+# Concepts
+- [compression](./concepts/compression.md) 
+
+# Linux 
+
+
+## Commands
+[commands](./linux/commands/commands.md)
+
+
+## Desktop Environment  
+1. [KDE](./linux/desktop_environments/kde/kde.md)
+2. [i3](./linux/desktop_environments/i3/i3.md)
+3. [Gnome](./linux/desktop_environments/gnome/gnome.md)
+
+## Distributions 
+
+1. [arch](./linux/distributions/arch/arch.md)
+2. [debian](./linux/distributions/debian/debian.md)
+3. nix
+
+## Terminal
+
+1. [wezterm](./linux/terminal/wezterm.md)
+2. kitty
+3. alacrity
+
+### Shell
+1. [zsh](./linux/terminal/shell/zsh.md)
+2. [bash](./linux/terminal/shell/bash.md)
+
+### Cli Tools
+
+1. unzip
+2. tar
+3. 7z (external)
+4. jar
+
+#### modern clis
+- zoxide
+- fd
+- ripgrep
+2. [fzf](./linux/terminal/cli_tools/fzf.md)
+3. [yazi](./linux/terminal/cli_tools/yazi.md)
+
+
+
