@@ -1,23 +1,37 @@
-# My Dev Notes
-
 This repository contains my notes and documentation on various tools, programming languages, Linux configurations, and presentations.
 
+
+# OS
+# Linux
+[linux](./os/linux.md)
+## Systemd
+[systemd](./os/linux/systemd.md)
+
+
+
+
+# Devops
 [devops](./devops.md)
 
+# Android
 [termux](./termux.md)
 
 
-# Table of Contents
-
-## editors
+# editors
 [keyboardshortcuts](./editors/keyboardshortcuts.md)
 - [vim](./linux/terminal/cli_tools/vim.md)
 - [vscode](./editors/vscode.md)
 <!-- - [intelij](./editors/intelij.md) -->
 
+# Concepts
+- [compression](./concepts/compression.md) 
+- caching
+- load-balancing
+- web-server
+- reverse-proxy
 
 
-## programming languages
+# programming languages
 - [python](./programming_languages/python.md)
 - [javascript](./programming_languages/javascript.md)
 <!-- - [java](./programming_languages/java.md) -->
@@ -26,6 +40,8 @@ This repository contains my notes and documentation on various tools, programmin
 - [clis](./cli/clis.md)
 - [git](./cli/git.md)
 - [docker](./cli/docker.md)
+- [Podman](cli/podman.md) - Podman container management.
+- [Rsync](cli/rsync.md) - File synchronization and backups.
 
 ## databases
 
@@ -45,34 +61,6 @@ This repository contains my notes and documentation on various tools, programmin
 [cloud](./cloud.md)
 
 [kubernetes](./kubernetes.md)
-
-# android programming
-### CLI
-- [Docker](cli/docker.md) - Notes on using Docker for container management.
-- [Git](cli/git.md) - Git commands, tips, and workflows.
-- [Podman](cli/podman.md) - Podman container management.
-- [Rsync](cli/rsync.md) - File synchronization and backups.
-
-### Editors
-- [Keyboard Shortcuts](editors/keyboardshortcuts.md) - Useful shortcuts for editors.
-- [VSCode](editors/vscode.md) - VSCode setup and tips.
-
-### Linux
-
-#### Commands
-- [Common Commands](linux/commands/commands.md)
-
-#### Desktop Environments
-- [GNOME](linux/desktop_environments/gnome/gnome.md)
-- [i3](linux/desktop_environments/i3/i3.md)
-- [KDE](linux/desktop_environments/kde/kde.md)
-- [KDE File Search](linux/desktop_environments/kde/kde_plasama_filesearch.md)
-
-#### Distributions
-- [Arch Linux](linux/distributions/arch/arch.md)
-- [Pacman](linux/distributions/arch/pacman.md)
-- [Debian](linux/distributions/debian/debian.md)
-- [APT](linux/distributions/debian/apt.md)
 
 #### Terminal
 - [CLI Tools](linux/terminal/cli_tools/fzf.md) - fzf, vim, yazi
@@ -97,36 +85,10 @@ This repository contains my notes and documentation on various tools, programmin
 
 [powerpoint](./presentations/powerpoint.md)
 
-# Concepts
-- [compression](./concepts/compression.md) 
-
-# Linux 
-
 
 ## Commands
 [commands](./linux/commands/commands.md)
 
-
-## Desktop Environment  
-1. [KDE](./linux/desktop_environments/kde/kde.md)
-2. [i3](./linux/desktop_environments/i3/i3.md)
-3. [Gnome](./linux/desktop_environments/gnome/gnome.md)
-
-## Distributions 
-
-1. [arch](./linux/distributions/arch/arch.md)
-2. [debian](./linux/distributions/debian/debian.md)
-3. nix
-
-## Terminal
-
-1. [wezterm](./linux/terminal/wezterm.md)
-2. kitty
-3. alacrity
-
-### Shell
-1. [zsh](./linux/terminal/shell/zsh.md)
-2. [bash](./linux/terminal/shell/bash.md)
 
 ### Cli Tools
 

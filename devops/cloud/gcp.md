@@ -1,4 +1,4 @@
-# cloud
+# GCP
 
 ## Google Cloud SDK CLI
 
